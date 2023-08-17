@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   console.log('github integration build test');
   console.log('unit test');
+  console.log('unit test - execute windows batch command');
 
   return (
     <div className="App">
