@@ -6,6 +6,7 @@ function App() {
   console.log('unit test');
   console.log('unit test - execute windows batch command');
   console.log('merge webhook test');
+  console.log('test');
 
   return (
     <div className="App">
