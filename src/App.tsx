@@ -3,6 +3,8 @@ import './App.css';
 
 function App() {
   console.log('github integration build test');
+  console.log('unit test');
+
   return (
     <div className="App">
       <header className="App-header">
